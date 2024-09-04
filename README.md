@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vedantdotexe
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vedantsurvase21@gmail.com
 
 <!---
