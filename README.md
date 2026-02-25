@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/CURRENT-DSA_100_DAYS-fcd447?style=for-the-badge&logoColor=black)
 
 ### ⚡ The Brief
-- 🎓 **Engineering:** 3rd Year ECE Student @ MBES College of Engineering.
+- 🎓 **Engineering:** 3rd Year ECE Student.
 - 🤖 **AI Agentics:** Implementing **Moltbot, Antigravity, and Anthropic** to automate the future.
 - 💻 **Software First:** MERN stack developer focused on high-performance automation.
 - 🧠 **Daily Sprint:** Mastering Data Structures & Algorithms (The engine of the code).
