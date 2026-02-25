@@ -12,6 +12,25 @@
 
 ---
 
+### 🛠️ The Tech Pitstop (Languages & Tools)
+**Programming Languages:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-fcd447?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-0600ef?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0600ef?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-0600ef?style=flat&logo=c&logoColor=white)
+
+**Web & Databases:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Automation & AI:**
+![Agentic AI](https://img.shields.io/badge/-Agentic_AI-fcd447?style=flat&logo=openai&logoColor=black)
+
+---
+
 ### ☕ Beyond the Terminal
 *If I'm not coding, I'm likely doing one of these:*
 
@@ -20,14 +39,6 @@
 - **♟️ Chess & 🏸 Badminton:** I love the high-speed strategy of both the board and the court.
 - **📚 Novel Enthusiast:** I appreciate a good story—ask me what I’m currently reading.
 - **📸 Analog Photography:** I have a thing for vintage film cameras and the "hardware" of 90s lenses.
-
----
-
-### 🛠️ The Tech Pitstop
-![React](https://img.shields.io/badge/-React-0600ef?style=flat&logo=react&logoColor=61DAFB) 
-![Node](https://img.shields.io/badge/-Node.js-0600ef?style=flat&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0600ef?style=flat&logo=mongodb&logoColor=47A248)
-![AI](https://img.shields.io/badge/-Agentic_AI-fcd447?style=flat&logo=openai&logoColor=black)
 
 ---
 
