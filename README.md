@@ -32,8 +32,10 @@
 ---
 
 ### 📊 Season Performance (GitHub Stats)
-![Vedant's Stats](https://github-readme-stats.vercel.app/api?username=Vedantdotexe&show_icons=true&theme=tokyonight&title_color=fcd447&icon_color=ff0000&text_color=ffffff&bg_color=0600ef)
+![Vedant's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vedantdotexe&show_icons=true&theme=tokyonight&title_color=fcd447&icon_color=ff0000&text_color=ffffff&bg_color=0600ef)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedantdotexe&layout=compact&theme=tokyonight&title_color=fcd447)
 
 ---
 
-🏁 **[Track my 100 Days of DSA Journey here!](https://github.com/Vedantdotexe/100-Days-of-DSA)**
+🏁 **[Track my 100 Days of DSA Journey here!](https://github.com/vedantdotexe/100-Days-of-DSA)**
