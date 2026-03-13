@@ -39,7 +39,7 @@
 
 ### Automation & AI: AGENTIC AI AND GEN AI
 <p align="left">
-  <a href="https://openai.com/index/built-for-agents/" target="_blank"><img src="https://img.shields.io/badge/Agentic%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://antigravity.dev/" target="_blank"><img src="https://img.shields.io/badge/Agentic%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" /></a>
 </p>
 
