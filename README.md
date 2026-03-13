@@ -21,7 +21,7 @@
 ---
 # 🛠️ The Tech Pitstop (Languages & Tools)
 
-### Programming Languages: JS, Java, Python, C++
+### Programming Languages:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
@@ -29,7 +29,7 @@
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 </p>
 
-### Web & Databases: MERN Stack
+### Web & Databases: 
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
@@ -37,7 +37,7 @@
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 </p>
 
-### Automation & AI: AGENTIC AI AND GEN AI
+### Automation & AI:
 <p align="left">
   <a href="https://antigravity.google/" target="_blank"><img src="https://img.shields.io/badge/Agentic%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" /></a>
