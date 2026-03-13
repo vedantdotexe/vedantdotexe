@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ The Brief
+### ⚡ The Brief <img src="https://media.giphy.com/media/BOPrq7m5jYS1W/giphy.gif" align="right" width="120" />
 - 🎓 **Engineering:** 3rd Year ECE Student.
 - 🤖 **AI Agentics:** Implementing **Moltbot, Antigravity, and Anthropic** to automate the future.
 - 💻 **Software First:** MERN stack developer focused on high-performance automation.
