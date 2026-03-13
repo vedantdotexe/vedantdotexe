@@ -1,14 +1,15 @@
 # <div align="center">🏎️ Vedant | Full Stack Developer & AI Enthusiast </div>
----
 
 <div align="center">
-
+  
 ### "Simply Lovely." — Red Bull Racing Inspired 🔵 🔴 🟡
 
-<img src="https://img.shields.io/badge/TEAM-RED%20BULL%20RACING-blue?style=for-the-badge&logo=redbullracing&logoColor=white" />
-<img src="https://img.shields.io/badge/CURRENT-DSA%20100%20DAYS-f9d71c?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.redbullracing.com/" target="_blank"><img src="https://img.shields.io/badge/TEAM-RED%20BULL%20RACING-blue?style=for-the-badge&logo=redbullracing&logoColor=white" /></a>
+<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/CURRENT-DSA%20100%20DAYS-f9d71c?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
+
+---
 
 ### ⚡ The Brief
 - 🎓 **Engineering:** 3rd Year ECE Student.
@@ -16,24 +17,31 @@
 - 💻 **Software First:** MERN stack developer focused on high-performance automation.
 - 🧠 **Daily Sprint:** Mastering Data Structures & Algorithms (The engine of the code).
 
+
 ---
+# 🛠️ The Tech Pitstop (Languages & Tools)
 
-### 🛠️ The Tech Pitstop (Languages & Tools)
-**Programming Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-fcd447?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-0600ef?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-0600ef?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-0600ef?style=flat&logo=c&logoColor=white)
+### Programming Languages: JS, Java, Python, C++
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+</p>
 
-**Web & Databases:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Web & Databases: MERN Stack
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+</p>
 
-**Automation & AI:**
-![Agentic AI](https://img.shields.io/badge/-Agentic_AI-fcd447?style=flat&logo=openai&logoColor=black)
+### Automation & AI: AGENTIC AI AND GEN AI
+<p align="left">
+  <a href="https://openai.com/index/built-for-agents/" target="_blank"><img src="https://img.shields.io/badge/Agentic%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -48,10 +56,11 @@
 
 ---
 
-### 📊 Season Performance (GitHub Stats)
-![Vedant's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vedantdotexe&show_icons=true&theme=tokyonight&title_color=fcd447&icon_color=ff0000&text_color=ffffff&bg_color=0600ef)
+### 📊 Performance Metrics
+<div align="center"> 
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedantdotexe&layout=compact&theme=tokyonight&title_color=fcd447)
+![Vedant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vedantdotexe&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
