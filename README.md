@@ -1,8 +1,14 @@
-# 🏎️ Vedant | Full Stack Developer & AI Enthusiast
-> "Simply Lovely." — Red Bull Racing Inspired 🔵🔴🟡
+# <div align="center">🏎️ Vedant | Full Stack Developer & AI Enthusiast </div>
+---
 
-![Red Bull Racing](https://img.shields.io/badge/TEAM-RED_BULL_RACING-0600ef?style=for-the-badge&logo=redbull&logoColor=white)
-![Focus](https://img.shields.io/badge/CURRENT-DSA_100_DAYS-fcd447?style=for-the-badge&logoColor=black)
+<div align="center">
+
+### "Simply Lovely." — Red Bull Racing Inspired 🔵 🔴 🟡
+
+<img src="https://img.shields.io/badge/TEAM-RED%20BULL%20RACING-blue?style=for-the-badge&logo=redbullracing&logoColor=white" />
+<img src="https://img.shields.io/badge/CURRENT-DSA%20100%20DAYS-f9d71c?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+</div>
 
 ### ⚡ The Brief
 - 🎓 **Engineering:** 3rd Year ECE Student.
