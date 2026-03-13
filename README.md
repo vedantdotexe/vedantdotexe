@@ -64,4 +64,15 @@
 
 ---
 
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/vedantsurvase21" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vedantzx04@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=Vedantdotexe&label=PROFILE%20VIEWS&color=0077b5&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 🏁 **[Track my 100 Days of DSA Journey here!](https://github.com/vedantdotexe/100-Days-of-DSA)**
